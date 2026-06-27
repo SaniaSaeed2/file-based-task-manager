@@ -1,0 +1,1 @@
+Learn JWT and bcrypt authentication for secure user login.
